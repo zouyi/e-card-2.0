@@ -222,7 +222,7 @@ var purplelantern = document.createElement("img");
 
     
     var yellowlantern = document.createElement("img");
-    yellowlantern.src="https://zouyi.github.io/e-card-2.0/resources/SVG/yellowdiamondlantern.svg";
+    yellowlantern.src="resources/SVG/yellowdiamondlantern.svg";
     yellowlantern.id="yellowlantern";
     yellowlantern.className="swinglantern";
     yellowlantern.style.position="absolute";
