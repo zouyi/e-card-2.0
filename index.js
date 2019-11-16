@@ -154,7 +154,7 @@ initialize = function(){
 
 
 var bluelantern = document.createElement("img");
-    bluelantern.src="resources/SVG/bluediamondlantern.svg";
+    bluelantern.src="https://zouyi.github.io/e-card-2.0/resources/SVG/bluediamondlantern.svg";
     bluelantern.id="bluelantern";
     bluelantern.className="swinglantern";
     bluelantern.style.position="absolute";
@@ -222,7 +222,7 @@ var purplelantern = document.createElement("img");
 
     
     var yellowlantern = document.createElement("img");
-    yellowlantern.src="resources/SVG/yellowdiamondlantern.svg";
+    yellowlantern.src="https://zouyi.github.io/e-card-2.0/resources/SVG/yellowdiamondlantern.svg";
     yellowlantern.id="yellowlantern";
     yellowlantern.className="swinglantern";
     yellowlantern.style.position="absolute";
