@@ -222,7 +222,7 @@ var purplelantern = document.createElement("img");
 
     
     var yellowlantern = document.createElement("img");
-    yellowlantern.src="resources/SVG/yellowdiamondlantern.svg";
+    yellowlantern.src="resources/SVG/yellowdiamond.svg";
     yellowlantern.id="yellowlantern";
     yellowlantern.className="swinglantern";
     yellowlantern.style.position="absolute";
