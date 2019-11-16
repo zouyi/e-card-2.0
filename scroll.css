@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Boogaloo&display=swap');
+#scrollDisplay {
+ margin-top:300px;
+  width: 1100px;
+  height:225px;
+  top:430px;
+  left:0px;
+  right:0px;
+  z-index: 1;
+  position:absolute;
+  background-color:white;
+ 
+}
+ #back {
+  top:14px;
+  width: 1100px;
+  height:216px;
+  background-color: bisque;
+  position: absolute;
+  text-align: center;
+ 
+ }
+
+#back img{
+
+}
+
+#left {
+  position: absolute;
+  left: 0;
+  top:4px;
+  width:21px;
+  height:140px;
+
+ }
+
+   
+ #right {
+  position: absolute;
+  left: 16px;
+    top:4px;
+  width:21px;
+  height:140px;
+ }
+   
+
+
+#description {
+  position:absolute;
+  left:125px;
+  font-size:14pt;
+  width:840px;
+  opacity:0.5;
+  padding:10px;
+  border-radius:20px;
+  background-color:white;
+font-family: 'Boogaloo', cursive;
+
+}
+
